@@ -31,3 +31,7 @@ Below is code for generating a Collatz sequence
 
     print(sequence)
     print('This sequence has ' + str(len(sequence)-1) + ' steps')
+
+- [ ] List item 1
+- [ ] List item 2
+- [ ] List item 3
